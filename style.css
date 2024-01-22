@@ -31,6 +31,9 @@ label{
     padding: 20px;
     border-radius: 15px;
 }
+label:hover{
+    background-color: rgb(188, 188, 188);
+}
 
 
 .output-wrapper{
